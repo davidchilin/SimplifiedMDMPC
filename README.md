@@ -1,8 +1,5 @@
 # SimplifiedMDMPC
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-or original license of respective software (ie. ipopt EPL2.0)
-
 ## Overview
 
 This repository contains the code for the research article on a simplified
@@ -47,15 +44,15 @@ Below are some results from the re-configuration simulations presented in the
 
 ### Concentration Profile
 
-![Concentration Profile](https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/master/data/2011/F6%3D0.5%20Reconfiguration/Concentration.svg)
+![Concentration Profile](<./master/data/2011/F6=0.5\ Reconfiguration/Concentration.svg>)
 
 ### Controller Action
 
-![Controller Action](https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/master/data/2011/F6%3D0.5%20Reconfiguration/Controller.svg)
+![Controller Action](./data/2011/F6%3D0.5%20Reconfiguration/Controller.svg)
 
 ### Temperature Profile
 
-![Temperature Profile](https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/master/data/2011/F6%3D0.5%20Reconfiguration/Temperature.svg)
+![Temperature Profile]("./data/2011/F6=0.5 Reconfiguration/Temperature.svg")
 
 ## Dependencies
 
