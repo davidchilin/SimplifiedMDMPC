@@ -1,0 +1,271 @@
+0 : status MPC1: 0, MPC2: 1, MPC3: 0
+10 : status MPC1: 0, MPC2: 1, MPC3: 0
+20 : status MPC1: 0, MPC2: 1, MPC3: 0
+30 : status MPC1: 0, MPC2: 1, MPC3: 0
+40 : status MPC1: 0, MPC2: 1, MPC3: 0
+50 : status MPC1: 0, MPC2: 1, MPC3: 0
+60 : status MPC1: 0, MPC2: 0, MPC3: 0
+70 : status MPC1: 0, MPC2: 1, MPC3: 0
+80 : status MPC1: 0, MPC2: 0, MPC3: 0
+90 : status MPC1: 0, MPC2: 0, MPC3: 0
+100 : status MPC1: 0, MPC2: 1, MPC3: 0
+110 : status MPC1: 1, MPC2: 0, MPC3: 0
+120 : status MPC1: 0, MPC2: 1, MPC3: 0
+130 : status MPC1: 1, MPC2: 1, MPC3: 0
+140 : status MPC1: 0, MPC2: 1, MPC3: 1
+150 : status MPC1: 0, MPC2: 1, MPC3: 0
+160 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 11 exceeds threshold at time 165
+170 : status MPC1: 0, MPC2: 1, MPC3: 0
+180 : status MPC1: 0, MPC2: 1, MPC3: 0
+190 : status MPC1: 0, MPC2: 1, MPC3: 1
+200 : status MPC1: 0, MPC2: 1, MPC3: 1
+210 : status MPC1: 0, MPC2: 1, MPC3: 1
+220 : status MPC1: 0, MPC2: 1, MPC3: 1
+230 : status MPC1: 0, MPC2: 0, MPC3: 0
+240 : status MPC1: 0, MPC2: 0, MPC3: 0
+250 : status MPC1: 0, MPC2: 0, MPC3: 0
+260 : status MPC1: 0, MPC2: 0, MPC3: 0
+270 : status MPC1: 0, MPC2: 1, MPC3: 0
+280 : status MPC1: 1, MPC2: 1, MPC3: 0
+290 : status MPC1: 0, MPC2: 1, MPC3: 0
+300 : status MPC1: 0, MPC2: 1, MPC3: 0
+310 : status MPC1: 0, MPC2: 1, MPC3: 0
+320 : status MPC1: 0, MPC2: 1, MPC3: 0
+330 : status MPC1: 0, MPC2: 1, MPC3: 0
+340 : status MPC1: 0, MPC2: 1, MPC3: 0
+350 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 14 exceeds threshold at time 354
+Residual: 14 exceeds threshold at time 355
+Residual: 14 exceeds threshold at time 356
+360 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 11 exceeds threshold at time 368
+Residual: 11 exceeds threshold at time 369
+370 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 11 exceeds threshold at time 379
+Residual: 11 exceeds threshold at time 380
+380 : status MPC1: 0, MPC2: 1, MPC3: 1
+Residual: 11 exceeds threshold at time 381
+Residual: 11 exceeds threshold at time 382
+Residual: 11 exceeds threshold at time 383
+Residual: 11 exceeds threshold at time 384
+Residual: 14 exceeds threshold at time 385
+Residual: 14 exceeds threshold at time 386
+Residual: 14 exceeds threshold at time 387
+Residual: 14 exceeds threshold at time 388
+Residual: 14 exceeds threshold at time 389
+Residual: 14 exceeds threshold at time 390
+390 : status MPC1: 0, MPC2: 1, MPC3: 0
+400 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 14 exceeds threshold at time 407
+Residual: 11 exceeds threshold at time 407
+410 : status MPC1: 0, MPC2: 1, MPC3: 1
+420 : status MPC1: 0, MPC2: 0, MPC3: 0
+Residual: 24 exceeds threshold at time 430
+430 : status MPC1: 0, MPC2: 0, MPC3: 0
+Residual: 24 exceeds threshold at time 431
+Residual: 24 exceeds threshold at time 432
+Residual: 24 exceeds threshold at time 433
+Residual: 24 exceeds threshold at time 434
+Residual: 24 exceeds threshold at time 435
+Residual: 24 exceeds threshold at time 436
+440 : status MPC1: 0, MPC2: 0, MPC3: 0
+450 : status MPC1: 0, MPC2: 0, MPC3: 0
+460 : status MPC1: 0, MPC2: 0, MPC3: 0
+470 : status MPC1: 0, MPC2: 0, MPC3: 0
+480 : status MPC1: 0, MPC2: 0, MPC3: 0
+490 : status MPC1: 0, MPC2: 0, MPC3: 0
+500 : status MPC1: 0, MPC2: 0, MPC3: 0
+Residual: 11 exceeds threshold at time 507
+Residual: 11 exceeds threshold at time 508
+Residual: 11 exceeds threshold at time 509
+510 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 6 exceeds threshold at time 520
+520 : status MPC1: 0, MPC2: 0, MPC3: 0
+Residual: 6 exceeds threshold at time 521
+530 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 11 exceeds threshold at time 537
+540 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 9 exceeds threshold at time 548
+Residual: 9 exceeds threshold at time 549
+Residual: 9 exceeds threshold at time 550
+550 : status MPC1: 0, MPC2: 1, MPC3: 0
+560 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 6 exceeds threshold at time 568
+570 : status MPC1: 0, MPC2: 0, MPC3: 0
+580 : status MPC1: 0, MPC2: 0, MPC3: 0
+590 : status MPC1: 0, MPC2: 0, MPC3: 0
+600 : status MPC1: 0, MPC2: 0, MPC3: 0
+610 : status MPC1: 0, MPC2: 0, MPC3: 0
+Residual: 9 exceeds threshold at time 612
+Residual: 9 exceeds threshold at time 620
+620 : status MPC1: 0, MPC2: 0, MPC3: 0
+Residual: 9 exceeds threshold at time 621
+Residual: 9 exceeds threshold at time 622
+Residual: 9 exceeds threshold at time 623
+Residual: 11 exceeds threshold at time 623
+Residual: 9 exceeds threshold at time 624
+Residual: 11 exceeds threshold at time 624
+Residual: 11 exceeds threshold at time 625
+Residual: 11 exceeds threshold at time 626
+630 : status MPC1: 0, MPC2: 1, MPC3: 0
+640 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 9 exceeds threshold at time 641
+Residual: 9 exceeds threshold at time 644
+Residual: 9 exceeds threshold at time 646
+Residual: 9 exceeds threshold at time 647
+Residual: 9 exceeds threshold at time 648
+Residual: 9 exceeds threshold at time 649
+650 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 9 exceeds threshold at time 651
+Residual: 9 exceeds threshold at time 652
+660 : status MPC1: 0, MPC2: 1, MPC3: 0
+670 : status MPC1: 0, MPC2: 0, MPC3: 0
+680 : status MPC1: 0, MPC2: 0, MPC3: 0
+Residual: 6 exceeds threshold at time 682
+690 : status MPC1: 0, MPC2: 0, MPC3: 0
+700 : status MPC1: 0, MPC2: 0, MPC3: 0
+710 : status MPC1: 0, MPC2: 0, MPC3: 0
+720 : status MPC1: 0, MPC2: 0, MPC3: 0
+730 : status MPC1: 0, MPC2: 0, MPC3: 0
+Residual: 6 exceeds threshold at time 738
+Residual: 6 exceeds threshold at time 739
+740 : status MPC1: 0, MPC2: 0, MPC3: 0
+750 : status MPC1: 0, MPC2: 0, MPC3: 0
+760 : status MPC1: 0, MPC2: 0, MPC3: 0
+770 : status MPC1: 0, MPC2: 0, MPC3: 0
+780 : status MPC1: 0, MPC2: 0, MPC3: 0
+790 : status MPC1: 0, MPC2: 0, MPC3: 0
+800 : status MPC1: 0, MPC2: 0, MPC3: 0
+810 : status MPC1: 0, MPC2: 0, MPC3: 0
+820 : status MPC1: 0, MPC2: 0, MPC3: 0
+830 : status MPC1: 0, MPC2: 0, MPC3: 0
+840 : status MPC1: 0, MPC2: 0, MPC3: 0
+850 : status MPC1: 0, MPC2: 0, MPC3: 0
+860 : status MPC1: 0, MPC2: 0, MPC3: 0
+870 : status MPC1: 0, MPC2: 0, MPC3: 0
+880 : status MPC1: 0, MPC2: 0, MPC3: 0
+890 : status MPC1: 0, MPC2: 0, MPC3: 0
+900 : status MPC1: 0, MPC2: 0, MPC3: 0
+910 : status MPC1: 0, MPC2: 0, MPC3: 0
+920 : status MPC1: 0, MPC2: 0, MPC3: 0
+Residual: 11 exceeds threshold at time 924
+930 : status MPC1: 0, MPC2: 0, MPC3: 0
+940 : status MPC1: 0, MPC2: 1, MPC3: 0
+950 : status MPC1: 0, MPC2: 0, MPC3: 0
+Residual: 11 exceeds threshold at time 952
+Residual: 11 exceeds threshold at time 953
+Residual: 11 exceeds threshold at time 954
+Residual: 11 exceeds threshold at time 955
+Residual: 11 exceeds threshold at time 956
+Residual: 11 exceeds threshold at time 957
+Residual: 11 exceeds threshold at time 958
+Residual: 11 exceeds threshold at time 959
+Residual: 11 exceeds threshold at time 960
+960 : status MPC1: 0, MPC2: 1, MPC3: 0
+Residual: 11 exceeds threshold at time 961
+Residual: 11 exceeds threshold at time 962
+Residual: 11 exceeds threshold at time 963
+Fault detected in residual: 11
+Fault isolated/reconfigured: F6
+970 : status MPC1: 2, MPC2: 0, MPC3: 0
+980 : status MPC1: 0, MPC2: 0, MPC3: 0
+990 : status MPC1: 0, MPC2: 1, MPC3: 0
+1000 : status MPC1: 0, MPC2: 1, MPC3: 1
+1010 : status MPC1: 0, MPC2: 1, MPC3: 0
+1020 : status MPC1: 0, MPC2: 1, MPC3: 0
+1030 : status MPC1: 0, MPC2: 0, MPC3: 0
+1040 : status MPC1: 0, MPC2: 1, MPC3: 0
+1050 : status MPC1: 0, MPC2: 1, MPC3: 0
+1060 : status MPC1: 0, MPC2: 1, MPC3: 0
+1070 : status MPC1: 0, MPC2: 1, MPC3: 0
+1080 : status MPC1: 0, MPC2: 1, MPC3: 1
+1090 : status MPC1: 0, MPC2: 0, MPC3: 0
+1100 : status MPC1: 0, MPC2: 0, MPC3: 0
+1110 : status MPC1: 0, MPC2: 1, MPC3: 0
+1120 : status MPC1: 0, MPC2: 1, MPC3: 0
+1130 : status MPC1: 0, MPC2: 1, MPC3: 0
+1140 : status MPC1: 0, MPC2: 1, MPC3: 0
+1150 : status MPC1: 0, MPC2: 1, MPC3: 0
+1160 : status MPC1: 0, MPC2: 0, MPC3: 0
+1170 : status MPC1: 0, MPC2: 0, MPC3: 0
+1180 : status MPC1: 0, MPC2: 0, MPC3: 0
+1190 : status MPC1: 0, MPC2: 1, MPC3: 1
+1200 : status MPC1: 0, MPC2: 0, MPC3: 0
+1210 : status MPC1: 0, MPC2: 1, MPC3: 0
+1220 : status MPC1: 0, MPC2: 0, MPC3: 0
+1230 : status MPC1: 0, MPC2: 0, MPC3: 1
+1240 : status MPC1: 0, MPC2: 1, MPC3: 0
+1250 : status MPC1: 0, MPC2: 0, MPC3: 1
+1260 : status MPC1: 0, MPC2: 0, MPC3: 0
+1270 : status MPC1: 0, MPC2: 1, MPC3: 0
+1280 : status MPC1: 0, MPC2: 0, MPC3: 0
+1290 : status MPC1: 0, MPC2: 1, MPC3: 1
+1300 : status MPC1: 0, MPC2: 0, MPC3: 1
+1310 : status MPC1: 0, MPC2: 0, MPC3: 0
+1320 : status MPC1: 0, MPC2: 0, MPC3: 0
+1330 : status MPC1: 0, MPC2: 0, MPC3: 0
+1340 : status MPC1: 0, MPC2: 0, MPC3: 0
+1350 : status MPC1: 0, MPC2: 0, MPC3: 0
+1360 : status MPC1: 0, MPC2: 1, MPC3: 0
+1370 : status MPC1: 0, MPC2: 1, MPC3: 1
+1380 : status MPC1: 0, MPC2: 1, MPC3: 1
+1390 : status MPC1: 0, MPC2: 0, MPC3: 1
+1400 : status MPC1: 0, MPC2: 1, MPC3: 0
+1410 : status MPC1: 0, MPC2: 0, MPC3: 0
+1420 : status MPC1: 0, MPC2: 0, MPC3: 0
+1430 : status MPC1: 0, MPC2: 1, MPC3: 1
+1440 : status MPC1: 0, MPC2: 0, MPC3: 0
+1450 : status MPC1: 0, MPC2: 0, MPC3: 0
+1460 : status MPC1: 0, MPC2: 0, MPC3: 0
+1470 : status MPC1: 0, MPC2: 0, MPC3: 0
+1480 : status MPC1: 0, MPC2: 0, MPC3: 0
+1490 : status MPC1: 0, MPC2: 0, MPC3: 0
+1500 : status MPC1: 0, MPC2: 1, MPC3: 0
+1510 : status MPC1: 0, MPC2: 1, MPC3: 1
+1520 : status MPC1: 0, MPC2: 1, MPC3: 0
+1530 : status MPC1: 0, MPC2: 1, MPC3: 0
+1540 : status MPC1: 0, MPC2: 1, MPC3: 1
+1550 : status MPC1: 0, MPC2: 0, MPC3: 1
+1560 : status MPC1: 0, MPC2: 0, MPC3: 1
+1570 : status MPC1: 0, MPC2: 1, MPC3: 1
+1580 : status MPC1: 0, MPC2: 0, MPC3: 0
+1590 : status MPC1: 0, MPC2: 0, MPC3: 1
+1600 : status MPC1: 0, MPC2: 1, MPC3: 1
+1610 : status MPC1: 0, MPC2: 0, MPC3: 0
+1620 : status MPC1: 0, MPC2: 1, MPC3: 0
+1630 : status MPC1: 0, MPC2: 0, MPC3: 0
+1640 : status MPC1: 0, MPC2: 1, MPC3: 0
+1650 : status MPC1: 0, MPC2: 0, MPC3: 0
+1660 : status MPC1: 0, MPC2: 0, MPC3: 0
+1670 : status MPC1: 0, MPC2: 0, MPC3: 0
+1680 : status MPC1: 0, MPC2: 1, MPC3: 0
+1690 : status MPC1: 0, MPC2: 0, MPC3: 0
+1700 : status MPC1: 0, MPC2: 0, MPC3: 0
+1710 : status MPC1: 0, MPC2: 0, MPC3: 0
+1720 : status MPC1: 0, MPC2: 0, MPC3: 0
+1730 : status MPC1: 0, MPC2: 0, MPC3: 0
+1740 : status MPC1: 0, MPC2: 1, MPC3: 1
+1750 : status MPC1: 0, MPC2: 0, MPC3: 0
+1760 : status MPC1: 0, MPC2: 0, MPC3: 0
+1770 : status MPC1: 0, MPC2: 0, MPC3: 0
+1780 : status MPC1: 0, MPC2: 0, MPC3: 0
+1790 : status MPC1: 0, MPC2: 0, MPC3: 0
+1800 : status MPC1: 0, MPC2: 1, MPC3: 0
+1810 : status MPC1: 0, MPC2: 0, MPC3: 0
+1820 : status MPC1: 0, MPC2: 0, MPC3: 0
+1830 : status MPC1: 0, MPC2: 1, MPC3: 0
+1840 : status MPC1: 0, MPC2: 0, MPC3: 0
+1850 : status MPC1: 0, MPC2: 0, MPC3: 0
+1860 : status MPC1: 0, MPC2: 0, MPC3: 0
+1870 : status MPC1: 0, MPC2: 1, MPC3: 0
+1880 : status MPC1: 0, MPC2: 1, MPC3: 0
+1890 : status MPC1: 0, MPC2: 0, MPC3: 0
+4- avg: 0.21363400556122786, std dev: 0.1976864573810554
+9- avg: 0.24854500884666467, std dev: 0.18210286334371031
+14- avg: 0.23333035517650969, std dev: 0.18187946052793252
+19- avg: 0.29920578665277314, std dev: 0.20882399967423085
+24- avg: 0.13905292136417594, std dev: 0.10359551644841852
+6- avg: 0.1844873220248833, std dev: 0.31355344903517385
+11- avg: 0.6366540232868219, std dev: 0.6383207178301612
+Total cost is : 4.3233039369061254E7

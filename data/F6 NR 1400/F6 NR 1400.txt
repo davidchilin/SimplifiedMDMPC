@@ -1,0 +1,2470 @@
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1297
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1298
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1299
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1300
+Fault detected in residual: 11
+1300 : status MPC1: 0, MPC2: 0, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1301
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1302
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1303
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1304
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1305
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1306
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1307
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1308
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1309
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1310
+Fault detected in residual: 11
+1310 : status MPC1: 0, MPC2: 0, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1311
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1312
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1313
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1314
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1315
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1316
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1317
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1318
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1319
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1320
+Fault detected in residual: 11
+1320 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1321
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1322
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1323
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1324
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1325
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1326
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Residual: 14 exceeds threshold at time 1327
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1327
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Residual: 14 exceeds threshold at time 1328
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1328
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Residual: 14 exceeds threshold at time 1329
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1329
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Residual: 14 exceeds threshold at time 1330
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1330
+Fault detected in residual: 11
+1330 : status MPC1: 0, MPC2: 1, MPC3: 1
+Fault detected in residual: 4
+Fault detected in residual: 9
+Residual: 14 exceeds threshold at time 1331
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1331
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1332
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1333
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1334
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1335
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1336
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1337
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1338
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1339
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1340
+Fault detected in residual: 11
+1340 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1341
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1342
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1343
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1344
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1345
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1346
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1347
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1348
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1349
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1350
+Fault detected in residual: 11
+1350 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1351
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1352
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1353
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1354
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1355
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1356
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1357
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1358
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1359
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1360
+Fault detected in residual: 11
+1360 : status MPC1: 0, MPC2: 0, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1361
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1362
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1363
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1364
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1365
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1366
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1367
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1368
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1369
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1370
+Fault detected in residual: 11
+1370 : status MPC1: 0, MPC2: 1, MPC3: 1
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1371
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1372
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1373
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1374
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1375
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1376
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1377
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1378
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1379
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1380
+Fault detected in residual: 11
+1380 : status MPC1: 0, MPC2: 1, MPC3: 1
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1381
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1382
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1383
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1384
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1385
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1386
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1387
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1388
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1389
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1390
+Fault detected in residual: 11
+1390 : status MPC1: 0, MPC2: 1, MPC3: 1
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1391
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1392
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1393
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1394
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1395
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1396
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1397
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1398
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1399
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1400
+Fault detected in residual: 11
+1400 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1401
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1402
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1403
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1404
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1405
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1406
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1407
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1408
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1409
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1410
+Fault detected in residual: 11
+1410 : status MPC1: 0, MPC2: 0, MPC3: 1
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1411
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1412
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1413
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1414
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1415
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1416
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1417
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1418
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1419
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1420
+Fault detected in residual: 11
+1420 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1421
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1422
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1423
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1424
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1425
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1426
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1427
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1428
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1429
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1430
+Fault detected in residual: 11
+1430 : status MPC1: 0, MPC2: 1, MPC3: 1
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1431
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1432
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1433
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1434
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1435
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1436
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1437
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1438
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1439
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1440
+Fault detected in residual: 11
+1440 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1441
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1442
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1443
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1444
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1445
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1446
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1447
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1448
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1449
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1450
+Fault detected in residual: 11
+1450 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1451
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1452
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1453
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1454
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1455
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1456
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1457
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1458
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1459
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1460
+Fault detected in residual: 11
+1460 : status MPC1: 0, MPC2: 0, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1461
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1462
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1463
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1464
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1465
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1466
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1467
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1468
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1469
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1470
+Fault detected in residual: 11
+1470 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1471
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1472
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1473
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1474
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1475
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1476
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1477
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1478
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1479
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1480
+Fault detected in residual: 11
+1480 : status MPC1: 0, MPC2: 0, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1481
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1482
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1483
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1484
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1485
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1486
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1487
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1488
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1489
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1490
+Fault detected in residual: 11
+1490 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1491
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1492
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1493
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1494
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1495
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1496
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1497
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1498
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1499
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1500
+Fault detected in residual: 11
+1500 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1501
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1502
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1503
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1504
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1505
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1506
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1507
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1508
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1509
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1510
+Fault detected in residual: 11
+1510 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1511
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1512
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1513
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1514
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1515
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1516
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1517
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1518
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1519
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1520
+Fault detected in residual: 11
+1520 : status MPC1: 0, MPC2: 0, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1521
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1522
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1523
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1524
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1525
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1526
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1527
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1528
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1529
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1530
+Fault detected in residual: 11
+1530 : status MPC1: 1, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1531
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1532
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1533
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1534
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1535
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1536
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1537
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1538
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1539
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1540
+Fault detected in residual: 11
+1540 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1541
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1542
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1543
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1544
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1545
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1546
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1547
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1548
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1549
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1550
+Fault detected in residual: 11
+1550 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1551
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1552
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1553
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1554
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1555
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1556
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1557
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1558
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1559
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1560
+Fault detected in residual: 11
+1560 : status MPC1: 0, MPC2: 0, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1561
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1562
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1563
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1564
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1565
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1566
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1567
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1568
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1569
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1570
+Fault detected in residual: 11
+1570 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1571
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1572
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1573
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1574
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1575
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1576
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1577
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1578
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1579
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1580
+Fault detected in residual: 11
+1580 : status MPC1: 0, MPC2: 0, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1581
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1582
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1583
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1584
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1585
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1586
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1587
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1588
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1589
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1590
+Fault detected in residual: 11
+1590 : status MPC1: 0, MPC2: 1, MPC3: 0
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1591
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1592
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1593
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1594
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1595
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1596
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1597
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1598
+Fault detected in residual: 11
+Fault detected in residual: 4
+Fault detected in residual: 9
+Fault detected in residual: 14
+Fault detected in residual: 19
+Fault detected in residual: 24
+Residual: 6 exceeds threshold at time 1599
+Fault detected in residual: 6
+Residual: 11 exceeds threshold at time 1599
+Fault detected in residual: 11
+4- avg: 0.22073772401437258, std dev: 0.20876112751176157
+9- avg: 0.2003242937334119, std dev: 0.15196737114751477
+14- avg: 0.23312741091679254, std dev: 0.17409010832983282
+19- avg: 0.2854166376782174, std dev: 0.17203467451311683
+24- avg: 0.13799490610952111, std dev: 0.10239847571168399
+6- avg: 0.0015769117019584333, std dev: 0.0011357519783784659
+11- avg: 0.8441295219726493, std dev: 0.8478983809393833
+Total cost is : 4.842127466356072E7
+Figured saved as E:\Jworkspace\SimplifiedMDMPC\.\data\b.svg
+Figured saved as E:\Jworkspace\SimplifiedMDMPC\.\data\Residuals.svg
+Figured saved as E:\Jworkspace\SimplifiedMDMPC\.\data\Control Inputs.svg
+Figured saved as E:\Jworkspace\SimplifiedMDMPC\.\data\Temperatures.svg

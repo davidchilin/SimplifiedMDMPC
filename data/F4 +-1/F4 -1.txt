@@ -1,0 +1,203 @@
+0 : status MPC1: 0, 2: 1, 3: 0
+10 : status MPC1: 0, 2: 1, 3: 0
+20 : status MPC1: 0, 2: 0, 3: 0
+30 : status MPC1: 0, 2: 1, 3: 0
+40 : status MPC1: 0, 2: 1, 3: 0
+50 : status MPC1: 0, 2: 1, 3: 0
+60 : status MPC1: 0, 2: 1, 3: 0
+70 : status MPC1: 0, 2: 1, 3: 0
+80 : status MPC1: 0, 2: 1, 3: 0
+90 : status MPC1: 0, 2: 0, 3: 0
+100 : status MPC1: 0, 2: 1, 3: 0
+110 : status MPC1: 0, 2: 1, 3: 0
+120 : status MPC1: 0, 2: 1, 3: 0
+130 : status MPC1: 0, 2: 1, 3: 0
+140 : status MPC1: 0, 2: 1, 3: 0
+150 : status MPC1: 0, 2: 1, 3: 0
+160 : status MPC1: 0, 2: 1, 3: 0
+170 : status MPC1: 0, 2: 1, 3: 0
+180 : status MPC1: 0, 2: 1, 3: 0
+190 : status MPC1: 0, 2: 1, 3: 0
+200 : status MPC1: 0, 2: 1, 3: 0
+210 : status MPC1: 0, 2: 1, 3: 0
+220 : status MPC1: 0, 2: 1, 3: 0
+Residual: 11 exceeds threshold at time 227
+230 : status MPC1: 0, 2: 1, 3: 0
+240 : status MPC1: 0, 2: 1, 3: 0
+250 : status MPC1: 0, 2: 1, 3: 0
+260 : status MPC1: 0, 2: 1, 3: 0
+270 : status MPC1: 0, 2: 1, 3: 0
+280 : status MPC1: 0, 2: 1, 3: 0
+290 : status MPC1: 0, 2: 1, 3: 0
+300 : status MPC1: 0, 2: 1, 3: 0
+310 : status MPC1: 0, 2: 1, 3: 0
+320 : status MPC1: 0, 2: 1, 3: 0
+330 : status MPC1: 0, 2: 1, 3: 0
+340 : status MPC1: 0, 2: 1, 3: 0
+350 : status MPC1: 0, 2: 1, 3: 0
+360 : status MPC1: 0, 2: 1, 3: 0
+Residual: 11 exceeds threshold at time 368
+Residual: 11 exceeds threshold at time 369
+370 : status MPC1: 0, 2: 1, 3: 0
+Residual: 11 exceeds threshold at time 378
+Residual: 11 exceeds threshold at time 379
+Residual: 11 exceeds threshold at time 380
+380 : status MPC1: 0, 2: 1, 3: 0
+Residual: 11 exceeds threshold at time 381
+Residual: 11 exceeds threshold at time 382
+Residual: 11 exceeds threshold at time 383
+Residual: 11 exceeds threshold at time 384
+Residual: 14 exceeds threshold at time 389
+390 : status MPC1: 0, 2: 1, 3: 0
+400 : status MPC1: 0, 2: 1, 3: 0
+Residual: 11 exceeds threshold at time 406
+Residual: 11 exceeds threshold at time 407
+410 : status MPC1: 0, 2: 1, 3: 0
+Residual: 11 exceeds threshold at time 415
+Residual: 11 exceeds threshold at time 416
+Residual: 11 exceeds threshold at time 418
+420 : status MPC1: 0, 2: 1, 3: 0
+Residual: 11 exceeds threshold at time 423
+Residual: 11 exceeds threshold at time 427
+430 : status MPC1: 0, 2: 1, 3: 0
+Residual: 11 exceeds threshold at time 434
+Residual: 11 exceeds threshold at time 435
+440 : status MPC1: 0, 2: 1, 3: 0
+450 : status MPC1: 0, 2: 1, 3: 0
+460 : status MPC1: 0, 2: 1, 3: 0
+470 : status MPC1: 0, 2: 1, 3: 0
+480 : status MPC1: 0, 2: 1, 3: 0
+490 : status MPC1: 0, 2: 1, 3: 0
+500 : status MPC1: 0, 2: 1, 3: 0
+510 : status MPC1: 0, 2: 1, 3: 0
+Residual: 6 exceeds threshold at time 520
+520 : status MPC1: 0, 2: 1, 3: 0
+Residual: 6 exceeds threshold at time 521
+530 : status MPC1: 0, 2: 1, 3: 0
+540 : status MPC1: 0, 2: 1, 3: 0
+550 : status MPC1: 0, 2: 1, 3: 0
+560 : status MPC1: 0, 2: 1, 3: 0
+570 : status MPC1: 0, 2: 1, 3: 0
+580 : status MPC1: 0, 2: 1, 3: 0
+590 : status MPC1: 0, 2: 0, 3: 0
+600 : status MPC1: 0, 2: 0, 3: 0
+610 : status MPC1: 0, 2: 0, 3: 0
+620 : status MPC1: 0, 2: 0, 3: 0
+630 : status MPC1: 0, 2: 0, 3: 0
+640 : status MPC1: 0, 2: 0, 3: 0
+650 : status MPC1: 0, 2: 0, 3: 0
+660 : status MPC1: 0, 2: 0, 3: 0
+670 : status MPC1: 0, 2: 0, 3: 0
+Residual: 11 exceeds threshold at time 678
+680 : status MPC1: 0, 2: 0, 3: 0
+690 : status MPC1: 0, 2: 0, 3: 0
+700 : status MPC1: 0, 2: 0, 3: 0
+710 : status MPC1: 0, 2: 0, 3: 0
+720 : status MPC1: 0, 2: 0, 3: 0
+730 : status MPC1: 0, 2: 0, 3: 0
+740 : status MPC1: 0, 2: 0, 3: 0
+750 : status MPC1: 0, 2: 0, 3: 0
+760 : status MPC1: 0, 2: 0, 3: 0
+770 : status MPC1: 0, 2: 1, 3: 0
+780 : status MPC1: 0, 2: 1, 3: 0
+790 : status MPC1: 0, 2: 1, 3: 0
+800 : status MPC1: 0, 2: 1, 3: 0
+Fault Triggered at:801
+Residual: 6 exceeds threshold at time 802
+Residual: 6 exceeds threshold at time 803
+Residual: 6 exceeds threshold at time 804
+Residual: 6 exceeds threshold at time 805
+Residual: 6 exceeds threshold at time 806
+Residual: 6 exceeds threshold at time 807
+Residual: 6 exceeds threshold at time 808
+Residual: 6 exceeds threshold at time 809
+Residual: 6 exceeds threshold at time 810
+810 : status MPC1: 0, 2: 0, 3: 0
+Residual: 6 exceeds threshold at time 811
+Residual: 6 exceeds threshold at time 812
+Fault detected in residual: 6
+Fault magnitude : -0.999912124210924
+Fault isolated/reconfigured: F4
+820 : status MPC1: 2, 2: 0, 3: 0
+830 : status MPC1: 0, 2: 0, 3: 0
+840 : status MPC1: 0, 2: 1, 3: 0
+850 : status MPC1: 0, 2: 1, 3: 0
+860 : status MPC1: 0, 2: 1, 3: 0
+870 : status MPC1: 0, 2: 0, 3: 1
+880 : status MPC1: 0, 2: 1, 3: 0
+890 : status MPC1: 0, 2: 0, 3: 0
+900 : status MPC1: 0, 2: 1, 3: 0
+910 : status MPC1: 0, 2: 1, 3: 0
+920 : status MPC1: 0, 2: 1, 3: 0
+930 : status MPC1: 0, 2: 1, 3: 0
+940 : status MPC1: 0, 2: 1, 3: 1
+950 : status MPC1: 0, 2: 1, 3: 0
+960 : status MPC1: 0, 2: 1, 3: 1
+970 : status MPC1: 0, 2: 0, 3: 0
+980 : status MPC1: 0, 2: 1, 3: 0
+990 : status MPC1: 0, 2: 0, 3: 0
+1000 : status MPC1: 0, 2: 1, 3: 0
+1010 : status MPC1: 0, 2: 1, 3: 1
+1020 : status MPC1: 0, 2: 0, 3: 1
+1030 : status MPC1: 0, 2: 1, 3: 1
+1040 : status MPC1: 0, 2: 0, 3: 1
+1050 : status MPC1: 0, 2: 1, 3: 1
+1060 : status MPC1: 0, 2: 0, 3: 1
+1070 : status MPC1: 0, 2: 1, 3: 0
+1080 : status MPC1: 0, 2: 0, 3: 1
+1090 : status MPC1: 0, 2: 1, 3: 0
+1100 : status MPC1: 0, 2: 0, 3: 1
+1110 : status MPC1: 0, 2: 1, 3: 0
+1120 : status MPC1: 0, 2: 0, 3: 0
+1130 : status MPC1: 0, 2: 1, 3: 1
+1140 : status MPC1: 0, 2: 0, 3: 1
+1150 : status MPC1: 0, 2: 1, 3: 0
+1160 : status MPC1: 0, 2: 0, 3: 0
+1170 : status MPC1: 0, 2: 1, 3: 1
+1180 : status MPC1: 0, 2: 0, 3: 0
+1190 : status MPC1: 0, 2: 1, 3: 1
+1200 : status MPC1: 0, 2: 0, 3: 1
+1210 : status MPC1: 0, 2: 0, 3: 0
+1220 : status MPC1: 0, 2: 1, 3: 0
+1230 : status MPC1: 0, 2: 0, 3: 1
+1240 : status MPC1: 0, 2: 1, 3: 0
+1250 : status MPC1: 0, 2: 1, 3: 0
+1260 : status MPC1: 0, 2: 0, 3: 0
+1270 : status MPC1: 0, 2: 0, 3: 0
+1280 : status MPC1: 0, 2: 1, 3: 0
+1290 : status MPC1: 0, 2: 0, 3: 0
+1300 : status MPC1: 0, 2: 1, 3: 0
+1310 : status MPC1: 0, 2: 1, 3: 1
+1320 : status MPC1: 0, 2: 0, 3: 0
+1330 : status MPC1: 0, 2: 1, 3: 0
+1340 : status MPC1: 0, 2: 0, 3: 0
+1350 : status MPC1: 0, 2: 1, 3: 0
+1360 : status MPC1: 0, 2: 0, 3: 0
+1370 : status MPC1: 0, 2: 1, 3: 1
+1380 : status MPC1: 0, 2: 1, 3: 1
+1390 : status MPC1: 0, 2: 0, 3: 1
+1400 : status MPC1: 0, 2: 0, 3: 0
+1410 : status MPC1: 0, 2: 1, 3: 0
+1420 : status MPC1: 0, 2: 1, 3: 1
+1430 : status MPC1: 0, 2: 0, 3: 0
+1440 : status MPC1: 0, 2: 0, 3: 1
+1450 : status MPC1: 0, 2: 1, 3: 1
+1460 : status MPC1: 0, 2: 0, 3: 0
+1470 : status MPC1: 0, 2: 1, 3: 1
+1480 : status MPC1: 0, 2: 0, 3: 0
+1490 : status MPC1: 0, 2: 1, 3: 1
+1500 : status MPC1: 0, 2: 0, 3: 0
+1510 : status MPC1: 0, 2: 1, 3: 1
+1520 : status MPC1: 0, 2: 0, 3: 1
+1530 : status MPC1: 0, 2: 1, 3: 0
+1540 : status MPC1: 0, 2: 0, 3: 1
+1550 : status MPC1: 0, 2: 1, 3: 0
+1560 : status MPC1: 0, 2: 0, 3: 0
+1570 : status MPC1: 0, 2: 0, 3: 0
+1580 : status MPC1: 0, 2: 1, 3: 1
+1590 : status MPC1: 0, 2: 0, 3: 1
+Total cost is : 4.733075992698879E7
+Figured saved as E:\Jworkspace\SimplifiedMDMPC\.\data\Temperatures.svg
+Figured saved as E:\Jworkspace\SimplifiedMDMPC\.\data\Control Inputs.svg
+Figured saved as E:\Jworkspace\SimplifiedMDMPC\.\data\Residuals.svg
+Figured saved as E:\Jworkspace\SimplifiedMDMPC\.\data\b.svg
