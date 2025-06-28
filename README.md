@@ -44,7 +44,7 @@ Below are some results from the re-configuration simulations presented in the
 
 ### Concentration Profile
 
-![Concentration Profile](<./master/data/2011/F6=0.5\ Reconfiguration/Concentration.svg>)
+![Concentration Profile](<./data/2011/F6=0.5\ Reconfiguration/Concentration.svg>)
 
 ### Controller Action
 
