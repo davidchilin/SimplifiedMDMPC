@@ -44,15 +44,15 @@ Below are some results from the re-configuration simulations presented in the
 
 ### Concentration Profile
 
-<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg" style="width: 55vw; min-width: 250px;" >
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg" width="250px" >
 
 ### Controller Action
 
-<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Control_Inputs.svg" style="width: 55vw; min-width: 250px;">
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Control_Inputs.svg" style="min-width: 250px;">
 
 ### Temperature Profile
 
-<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Temperatures.svg" style="width: 55vw; min-width: 250px;">
+<svg src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Temperatures.svg" width="50%">
 
 ## Dependencies
 
