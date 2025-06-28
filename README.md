@@ -42,17 +42,17 @@ You can find the abstract at ScienceDirect:
 Below are some results from the re-configuration simulations presented in the
 2011 data folder, specifically for the `F6=0.5 Reconfiguration` case.
 
-### Concentration Profile
-
-<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg" height="500px" >
-
 ### Controller Action
 
-<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Control_Inputs.svg" height="50%">
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Control_Inputs.svg" width="500px" height="700px" />
+
+### Concentration Profile
+
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg" height="500px" width="500px" />
 
 ### Temperature Profile
 
-<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Temperatures.svg" height="50%" width="100">
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Temperatures.svg" height="500px" width="500px" />
 
 ## Dependencies
 
