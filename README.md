@@ -44,21 +44,15 @@ Below are some results from the re-configuration simulations presented in the
 
 ### Concentration Profile
 
-![Concentration Profile](./data/2011/F6_0.5_Reconfiguration/Concentration.svg)
-![Concentration Profile](./data/2011/F6_0.5_Reconfiguration/Concentration.svg)
-
-![Alt text](./data/2011/F6_0.5_Reconfiguration/Concentration.svg)
-<img src="./data/2011/F6_0.5_Reconfiguration/Concentration.svg">
+![Concentration Profile](https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg)
+![Alt text](https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg)
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg">
 
 ### Controller Action
 
-![Controller Action](https://raw.github.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Controller.svg?sanitize=true)
-<img src="https://raw.github.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Controller.svg?sanitize=true">
+<img src="https://raw.github.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg?sanitize=true">
 
 ### Temperature Profile
-
-![Temperature Profile]("https://rawgithub.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Temperature.svg")
-<img src="https://rawgithub.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Temperature.svg">
 
 ## Dependencies
 
