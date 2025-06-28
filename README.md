@@ -44,26 +44,22 @@ Below are some results from the re-configuration simulations presented in the
 
 ### Concentration Profile
 
-![Concentration Profile](https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg)
-![Alt text](https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg)
 <img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg">
 
 ### Controller Action
 
-<img src="https://raw.github.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg?sanitize=true">
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Control_Inputs.svg">
 
 ### Temperature Profile
 
-## Dependencies
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Temperatures.svg">
 
-_(List any required software, libraries, or toolboxes needed to run the code,
-for example:)_
+## Dependencies
 
 - MATLAB R2011a or later
 - COIN-OR IPOPT
 
 ## License
 
-This project is licensed under the MIT License - see the
-[LICENSE.md](LICENSE.md) file for details or original license of respective
+This project is licensed under the MIT License - or original license of respective
 software (ie. ipopt EPL2.0)
