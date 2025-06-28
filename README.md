@@ -47,16 +47,16 @@ Below are some results from the re-configuration simulations presented in the
 ![Concentration Profile](./data/2011/F6%3D0.5%20Reconfiguration/Concentration.svg)
 
 ![Alt text](./data/2011/F6%3D0.5%20Reconfiguration/Concentration.svg)
-<img src="./data/2011/F6%3D0.5%20Reconfiguration/Concentration.svg">
+<img src="./data/2011/F6\=0.5\ Reconfiguration/Concentration.svg">
 
 ### Controller Action
 
-![Controller Action]("https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6%3D0.5%20Reconfiguration/Controller.svg?sanitize=true")
+![Controller Action](https://raw.github.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6%3D0.5%20Reconfiguration/Controller.svg?sanitize=true)
 
 ### Temperature Profile
 
-![Temperature Profile]("https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6%3D0.5%20Reconfiguration/Temperature.svg")
-<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6%3D0.5%20Reconfiguration/Temperature.svg">
+![Temperature Profile]("https://rawgithub.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6%3D0.5%20Reconfiguration/Temperature.svg")
+<img src="https://rawgithub.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6%3D0.5%20Reconfiguration/Temperature.svg">
 
 ![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
 <img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">
