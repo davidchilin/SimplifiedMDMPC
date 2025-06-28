@@ -44,16 +44,19 @@ Below are some results from the re-configuration simulations presented in the
 
 ### Concentration Profile
 
-![Concentration Profile](<./master/data/2011/F6=0.5\ Reconfiguration/Concentration.svg>)
+![Concentration Profile](./data/2011/F6%3D0.5%20Reconfiguration/Concentration.svg)
+
+![Alt text](./data/2011/F6%3D0.5%20Reconfiguration/Concentration.svg)
+<img src="./data/2011/F6%3D0.5%20Reconfiguration/Concentration.svg">
 
 ### Controller Action
 
-![Controller Action](./data/2011/F6%3D0.5%20Reconfiguration/Controller.svg)
+![Controller Action]("https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6%3D0.5%20Reconfiguration/Controller.svg?sanitize=true")
 
 ### Temperature Profile
 
-![Temperature Profile]("./data/2011/F6=0.5 Reconfiguration/Temperature.svg")
-
+![Temperature Profile]("https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6%3D0.5%20Reconfiguration/Temperature.svg")
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6%3D0.5%20Reconfiguration/Temperature.svg">
 ## Dependencies
 
 _(List any required software, libraries, or toolboxes needed to run the code,
