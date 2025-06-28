@@ -44,7 +44,7 @@ Below are some results from the re-configuration simulations presented in the
 
 ### Concentration Profile
 
-<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg" width="250px" >
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Component_B.svg" width="500px" height="auto" >
 
 ### Controller Action
 
@@ -52,7 +52,7 @@ Below are some results from the re-configuration simulations presented in the
 
 ### Temperature Profile
 
-<svg src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Temperatures.svg" width="50%">
+<img src="https://raw.githubusercontent.com/davidchilin/SimplifiedMDMPC/refs/heads/master/data/2011/F6_0.5_Reconfiguration/Temperatures.svg" width="50%" height="auto">
 
 ## Dependencies
 
