@@ -1,4 +1,4 @@
-# SimplifiedMDMPC
+# Simplified DMPC
 
 ## Overview
 <img src="https://github.com/davidchilin/SimplifiedMDMPC/blob/master/data/2011/F6_0.5_Reconfiguration/sdmpc_diagram.png" align="right" width="40%" />
